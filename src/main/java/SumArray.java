@@ -5,6 +5,9 @@ public class SumArray {
 //{0, 1, 2, 3, 4, 5} → 15
 //{-7, -3} → -10
 
+
+
+
     public int SumArray (int[] array){
         if (array.length == 0){
 
